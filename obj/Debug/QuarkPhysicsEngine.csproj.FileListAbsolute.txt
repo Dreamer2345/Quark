@@ -1,0 +1,5 @@
+C:\Users\New\Desktop\Games Testing\QuarkPhysicsEngine\obj\Debug\QuarkPhysicsEngine.csprojAssemblyReference.cache
+C:\Users\New\Desktop\Games Testing\QuarkPhysicsEngine\bin\Debug\QuarkPhysicsEngine.dll
+C:\Users\New\Desktop\Games Testing\QuarkPhysicsEngine\bin\Debug\QuarkPhysicsEngine.pdb
+C:\Users\New\Desktop\Games Testing\QuarkPhysicsEngine\obj\Debug\QuarkPhysicsEngine.dll
+C:\Users\New\Desktop\Games Testing\QuarkPhysicsEngine\obj\Debug\QuarkPhysicsEngine.pdb
